@@ -1,0 +1,180 @@
+@charset "UTF-8";
+
+/*
+.scrollResultados{
+	
+	background-color: black;
+	color: orange;
+	font-weight: bold;
+	overflow-y: scroll;
+	height: 500px;
+	
+}
+*/
+
+body{
+	
+	background-color: #a2b9bc;
+	
+}
+
+.scrollResultados{
+	
+	background-color: black;
+	overflow-y: scroll;
+	height: 500px;
+	
+	
+}
+
+header{
+	
+	background-color: #b9936c;
+	border: solid;
+	margin: 20px auto;
+	height: 35px;
+	width: 90%;
+	text-align: center;
+	border-radius: 30px;
+	
+	padding-top: 15px;
+	
+}
+
+aside{
+	
+	background-color: #dac292;
+	width: 400px;
+	float: left;
+	padding: 10px;
+	border: solid;
+	border-radius: 40px;
+	
+}
+
+main{
+	
+	margin-left: 400px;
+	padding-left: 50px;
+	
+}
+
+.eligePais {
+	
+    background:none;
+    border:none;
+    margin:0px;
+    padding:5px;
+    cursor: pointer;
+    
+	color: orange;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.divV1{
+	
+	background-color: #e6e2d3;
+	height: 250px;
+	border: solid;
+	border-radius: 40px;
+	padding: 10px;
+	
+}
+
+	.divV1H1{
+	
+	width: 45s0px;
+	float:left;
+	//background-color:blue;
+	height: 100%;
+	text-align: center;
+	
+	}
+	
+	.divV1H2{
+	
+	margin-left: 200px;
+	text-align: center;
+	
+	}
+
+.divV2{
+	
+	background-color: #e6e2d3;
+	margin: 10px 0px;
+	padding: 5px;
+	border: solid;
+	border-radius: 40px;
+	padding: 10px;
+	
+}
+
+.divV3{
+	
+	background-color: #e6e2d3;
+	border: solid;
+	border-radius: 40px;
+	padding: 10px;
+	
+}
+
+	.divV3H1{
+	
+	//background-color: grey;
+	width: 40%;
+	height: 300px;
+	float: left;
+	padding: 20px;
+	
+	overflow-y: scroll;
+	
+	}
+
+	.divV3H2{
+	
+	//background-color: pink;
+	width: 40%;
+	height: 300px;
+	margin-left: 50%;
+	padding: 20px;
+	
+	overflow-y: scroll;
+	
+	}
+
+#numeroRango{
+	
+	text-align: center;
+	margin: 0px;
+	//background-color: orange;
+	width: 170px;
+	
+}
+
+
+#imagenMundo{
+	
+	height: 200px;
+	border-style: double;
+	border-radius: 40px;
+	background-color: #dac292;
+	
+}
+
+#resultados{
+	
+	text-align : center;
+	margin : 0px;
+	//background-color: yellow;
+	width: 200px;
+}
+
+.aladerecha{
+	
+	text-align: right;
+	
+}
+
+
+
